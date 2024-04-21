@@ -1,0 +1,88 @@
+main {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.main-tittle {
+    text-align: center;
+}
+
+.main-section {
+    padding: 16px;
+    background-color: aliceblue;
+    border-radius: 4px;
+}
+section{
+    background-color: aliceblue;
+    padding-left: 5px;
+}
+.section-celcius {
+    padding-top: 16px;
+}
+
+.section-fahrenheit {
+    padding-top: 16px;
+}
+
+.section-result {
+    padding-top: 16px;
+}
+
+textarea {
+    width: 75%;
+    height: 32px;
+    resize: none;
+    border: 2px solid lavender;
+    border-radius: 4px;
+    font-size: 16px;
+    color: coral;
+}
+
+
+.formula-s>strong {
+    font-size: 20px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.rumus>strong {
+    font-size: 20px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.rumus-2>strong {
+    font-size: 20px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.container-button {
+    padding-top: 8px;
+}
+button {
+    border: none;
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 4px;
+    font-family: Arial;
+}
+#button-convert {
+    background-color: forestgreen;
+    color: white;   
+    margin-right: 8px;
+}
+
+#button-reset {
+    background-color: royalblue;
+    color: white;
+    margin-right: 8px;   
+}
+
+#button-reverse {
+    background-color: palevioletred;
+    color: white;   
+}
